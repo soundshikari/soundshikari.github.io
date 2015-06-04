@@ -3,6 +3,7 @@ layout: post
 title:  "Maa Meri | Releasing Soon"
 date:   2015-06-05 23:02:39
 categories: update
+comments: true
 ---
 
 Hey, 
