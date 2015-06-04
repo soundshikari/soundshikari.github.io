@@ -9,7 +9,7 @@
 
     {% include header.html %}
 
-    <div class="page-content" style="font-family: 'Roboto', sans-serif;">
+    <div class="page-content" font-family: 'Roboto', sans-serif;>
       <div class="wrapper">
         {{ content }}
       </div>
