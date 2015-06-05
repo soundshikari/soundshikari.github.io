@@ -221,14 +221,14 @@
 <center>
 <div>
 <ul class="soc">
-    <li><a class="soc-twitter" href="http://www.twitter.com/iSoundShikari"></a></li>
-    <li><a class="soc-soundcloud" href="https://soundcloud.com/isoundshikari"></a></li>
-    <li><a class="soc-youtube" href="https://www.youtube.com/channel/UCo_XZw-p8J29NASdiIsH2ww"></a></li>
+    <li><a class="soc-twitter" href="http://www.twitter.com/iSoundShikari" target="_blank"></a></li>
+    <li><a class="soc-soundcloud" href="https://soundcloud.com/isoundshikari" target="_blank"></a></li>
+    <li><a class="soc-youtube" href="https://www.youtube.com/channel/UCo_XZw-p8J29NASdiIsH2ww" target="_blank"></a></li>
     <li><a class="soc-linkedin" href="#"></a></li>
-    <li><a class="soc-instagram" href="http://www.instagram.com/soundshikari"></a></li>
-    <li><a class="soc-facebook" href="http://www.facebook.com/iSoundShikari"></a></li>
-    <li><a class="soc-google" href="https://plus.google.com/u/0/113084260151715163357"></a></li>
-    <li><a class="soc-email2 soc-icon-last" href="prodbysoundshikari@gmail.com"></a></li>
+    <li><a class="soc-instagram" href="http://www.instagram.com/soundshikari" target="_blank"></a></li>
+    <li><a class="soc-facebook" href="http://www.facebook.com/iSoundShikari" target="_blank"></a></li>
+    <li><a class="soc-google" href="https://plus.google.com/u/0/113084260151715163357" target="_blank"></a></li>
+    <li><a class="soc-email2 soc-icon-last" href="prodbysoundshikari@gmail.com" target="_blank"></a></li>
 </ul>
 </div>
 </center>
