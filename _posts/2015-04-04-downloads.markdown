@@ -2,7 +2,7 @@
 layout: post
 title:  "DOWNLOADS"
 date:   2015-06-04 23:02:39
-categories: downloads
+categories: downloadmusic
 comments: true
 ---
 
